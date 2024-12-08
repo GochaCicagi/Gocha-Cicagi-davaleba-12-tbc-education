@@ -69,69 +69,69 @@ input {
   background: #5968f4;
 }
 
-.mpy2{
-    width: 1097px;
-    margin: auto;
-    display: flex;
-    column-gap: 123px;
-    justify-content: space-around;
-    margin-bottom: 74px;
+.mpy2 {
+  width: 1097px;
+  margin: auto;
+  display: flex;
+  column-gap: 123px;
+  justify-content: space-around;
+  margin-bottom: 74px;
 }
-.mpy3{
-border-radius: 50px;
-background-color: #5968f4;
-width: 68px;
-height: 68px;
-display: flex;
-justify-content: center;
-align-items: center;
+.mpy3 {
+  border-radius: 50px;
+  background-color: #5968f4;
+  width: 68px;
+  height: 68px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.pp{
-color: #4E4D54;
-font-family: Helvetica;
-font-size: 20px;
-font-style: normal;
-font-weight: 700;
-line-height: normal; 
+.pp {
+  color: #4e4d54;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
-.dividivi{
+.dividivi {
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 226px;
   justify-content: center;
 }
-.pp{
+.pp {
   padding-left: 1px;
   padding-top: 16px;
 }
 .mpy4 {
-  color: #99999A;
-font-family: Helvetica;
-font-size: 15px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-padding-top: 8px;
+  color: #99999a;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 8px;
 }
-.mpy5{
-  color: #99999A;
-font-family: Helvetica;
-font-size: 15px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-padding-top: 8px;
+.mpy5 {
+  color: #99999a;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 8px;
 }
-.button{
-width: 370px;
-height: 59px;
-background-color:#5968F4;
-color: aliceblue;
-font-size: medium;
-border: none;
+.button {
+  width: 370px;
+  height: 59px;
+  background-color: #5968f4;
+  color: aliceblue;
+  font-size: medium;
+  border: none;
 }
-.dividivi1{
+.dividivi1 {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -139,123 +139,123 @@ border: none;
   row-gap: 8px;
   justify-content: center;
 }
-.mpy6{
-border-radius: 50px;
-background-color: #5968f4;
-width: 68px;
-height: 68px;
-display: flex;
-justify-content: center;
-align-items: center;
-}
-.ppp{
-color: #4E4D54;
-font-family: Helvetica;
-font-size: 20px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-padding-top: 10px;
-}
-.tel1{
-  color: #99999A;
-font-family: Helvetica;
-font-size: 15px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-}
-.tel2{
-  color: #99999A;
-font-family: Helvetica;
-font-size: 15px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-}
-.dividivi2{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 226px;
-  row-gap: 8px;
-  justify-content: center;
-}
-.mpy7{
+.mpy6 {
   border-radius: 50px;
-background-color: #5968f4;
-width: 68px;
-height: 68px;
-display: flex;
-justify-content: center;
-align-items: center;
+  background-color: #5968f4;
+  width: 68px;
+  height: 68px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.ppp2{
-  color: #4E4D54;
-font-family: Helvetica;
-font-size: 20px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-padding-top: 10px;
+.ppp {
+  color: #4e4d54;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 10px;
+}
+.tel1 {
+  color: #99999a;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.tel2 {
+  color: #99999a;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.dividivi2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 226px;
+  row-gap: 8px;
+  justify-content: center;
+}
+.mpy7 {
+  border-radius: 50px;
+  background-color: #5968f4;
+  width: 68px;
+  height: 68px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ppp2 {
+  color: #4e4d54;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 10px;
 }
 
-.klasi{
-  color: #99999A;
-font-family: Helvetica;
-font-size: 15px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
+.klasi {
+  color: #99999a;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
-.klasi2{
-  color: #99999A;
-font-family: Helvetica;
-font-size: 15px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
+.klasi2 {
+  color: #99999a;
+  font-family: Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
-.mpy8{
-color: #000;
-font-family: Helvetica;
-font-size: 49px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
+.mpy8 {
+  color: #000;
+  font-family: Helvetica;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
-.divo1{
+.divo1 {
   width: 548px;
 }
-.divo2{
+.divo2 {
   display: flex;
   column-gap: 99px;
   justify-content: space-between;
   margin-bottom: 39px;
 }
-.img1{
+.img1 {
   width: 273px;
-height: 273px;
+  height: 273px;
 }
-.img2{
+.img2 {
   width: 273px;
-height: 273px;
+  height: 273px;
 }
-.img3{
+.img3 {
   width: 273px;
-height: 273px;
+  height: 273px;
 }
-.footer{
+.footer {
   background-color: black;
   height: 372px;
 }
-.container1{
+.container1 {
   width: 1146px;
   margin: 0 auto;
   margin-top: 57px;
   display: flex;
 }
-.divolo{
+.divolo {
   display: flex;
   flex-direction: column;
   row-gap: 23px;
@@ -263,18 +263,19 @@ height: 273px;
   margin-right: 191px;
 }
 
-.hashi{color: #FFF;
-font-family: Helvetica;
-font-size: 26px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
+.hashi {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
-.pe{
-color: #99999A;
-font-family: Helvetica;
-font-size: 17px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
+.pe {
+  color: #99999a;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
