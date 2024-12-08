@@ -71,11 +71,11 @@ input {
 
 .mpy2{
     width: 1097px;
-    border: 1px solid black;
     margin: auto;
     display: flex;
     column-gap: 123px;
     justify-content: space-around;
+    margin-bottom: 74px;
 }
 .mpy3{
 border-radius: 50px;
@@ -92,8 +92,7 @@ font-family: Helvetica;
 font-size: 20px;
 font-style: normal;
 font-weight: 700;
-line-height: normal;
-padding-left: 
+line-height: normal; 
 }
 .dividivi{
   display: flex;
@@ -130,6 +129,7 @@ height: 59px;
 background-color:#5968F4;
 color: aliceblue;
 font-size: medium;
+border: none;
 }
 .dividivi1{
   display: flex;
@@ -215,4 +215,33 @@ font-size: 15px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
+}
+.mpy8{
+color: #000;
+font-family: Helvetica;
+font-size: 49px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.divo1{
+  width: 548px;
+}
+.divo2{
+  display: flex;
+  column-gap: 99px;
+  justify-content: space-between;
+  margin-bottom: 39px;
+}
+.img1{
+  width: 273px;
+height: 273px;
+}
+.img2{
+  width: 273px;
+height: 273px;
+}
+.img3{
+  width: 273px;
+height: 273px;
 }
