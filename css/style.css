@@ -70,9 +70,12 @@ input {
 }
 
 .mpy2{
-    width: 997px;
+    width: 1097px;
     border: 1px solid black;
-    margin: auto
+    margin: auto;
+    display: flex;
+    column-gap: 123px;
+    justify-content: space-around;
 }
 .mpy3{
 border-radius: 50px;
@@ -82,4 +85,134 @@ height: 68px;
 display: flex;
 justify-content: center;
 align-items: center;
+}
+.pp{
+color: #4E4D54;
+font-family: Helvetica;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-left: 
+}
+.dividivi{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 226px;
+  justify-content: center;
+}
+.pp{
+  padding-left: 1px;
+  padding-top: 16px;
+}
+.mpy4 {
+  color: #99999A;
+font-family: Helvetica;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-top: 8px;
+}
+.mpy5{
+  color: #99999A;
+font-family: Helvetica;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-top: 8px;
+}
+.button{
+width: 370px;
+height: 59px;
+background-color:#5968F4;
+color: aliceblue;
+font-size: medium;
+}
+.dividivi1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 226px;
+  row-gap: 8px;
+  justify-content: center;
+}
+.mpy6{
+border-radius: 50px;
+background-color: #5968f4;
+width: 68px;
+height: 68px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.ppp{
+color: #4E4D54;
+font-family: Helvetica;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-top: 10px;
+}
+.tel1{
+  color: #99999A;
+font-family: Helvetica;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.tel2{
+  color: #99999A;
+font-family: Helvetica;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.dividivi2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 226px;
+  row-gap: 8px;
+  justify-content: center;
+}
+.mpy7{
+  border-radius: 50px;
+background-color: #5968f4;
+width: 68px;
+height: 68px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.ppp2{
+  color: #4E4D54;
+font-family: Helvetica;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-top: 10px;
+}
+
+.klasi{
+  color: #99999A;
+font-family: Helvetica;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.klasi2{
+  color: #99999A;
+font-family: Helvetica;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
 }
