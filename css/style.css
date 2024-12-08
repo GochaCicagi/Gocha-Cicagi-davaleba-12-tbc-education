@@ -1,7 +1,7 @@
 .container {
   width: 1146px;
-  border: 1px solid red;
   margin: 0 auto;
+  margin-top: 57px;
 }
 .h6 {
   color: #5863e3;
@@ -244,4 +244,37 @@ height: 273px;
 .img3{
   width: 273px;
 height: 273px;
+}
+.footer{
+  background-color: black;
+  height: 372px;
+}
+.container1{
+  width: 1146px;
+  margin: 0 auto;
+  margin-top: 57px;
+  display: flex;
+}
+.divolo{
+  display: flex;
+  flex-direction: column;
+  row-gap: 23px;
+  width: 320px;
+  margin-right: 191px;
+}
+
+.hashi{color: #FFF;
+font-family: Helvetica;
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.pe{
+color: #99999A;
+font-family: Helvetica;
+font-size: 17px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
 }
